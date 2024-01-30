@@ -1167,7 +1167,8 @@ header {
 
     .processBox {
         gap: 20px;
-        height: 310px;
+        height: auto;
+        width: 80%;
     }
 
     .processBox>div {
@@ -1190,7 +1191,7 @@ header {
 
     .processBox>h6 {
         color: white;
-        font-size: 24px;
+        font-size: 18px;
     }
 
     .processBox>p {
