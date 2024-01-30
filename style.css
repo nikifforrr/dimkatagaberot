@@ -1121,10 +1121,6 @@ header {
         overflow: hidden;
     }
 
-    .processBoxes {
-        display: none;
-    }
-
     .processabs1 {
         height: 150px;
     }
@@ -1170,17 +1166,8 @@ header {
     }
 
     .processBox {
-        display: flex;
-        flex-direction: column;
-        justify-content: flex-start;
         gap: 20px;
-        padding: 0px;
-        border-radius: 12px;
-        background-color: rgba(25, 25, 25, 1);
-        min-height: 0px;
-        width: 100%;
-        min-height: 270px;
-        max-width: 450px;
+        height: 310px;
     }
 
     .processBox>div {
