@@ -1168,7 +1168,7 @@ header {
     .processBox {
         gap: 20px;
         height: auto;
-        width: 80%;
+        width: 65%;
     }
 
     .processBox>div {
